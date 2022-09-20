@@ -1,7 +1,7 @@
 {
   "defaults": {
     "theme": "gelbooru",
-    "length": 7,
+    "length": "auto",
     "render": "auto"
   },
   "api": {
@@ -12,8 +12,8 @@
     "enabled": true
   },
   "ids": {
-    "dsrkafuu:demo": "Demo for GitHub & preview site.",
-    "dsrkafuu:home": "Personal blog & GitHub page.",
-    "dsrkafuu:tools": "For DSRTOOLs counter."
+    "count": "count.champhoon.xyz",
+    "blog": "champhoon.xyz",
+    "index": "index.champhoon.xyz"
   }
 }
