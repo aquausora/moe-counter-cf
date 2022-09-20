@@ -1,12 +1,12 @@
-name = "moe-counter-cf"
+name = "moe-counter"
 type = "javascript"
-account_id = "<CF_ACCOUNT_ID>"
-zone_id = "<CF_ZONE_ID>"
+account_id = "1c9558fa6af36b1506c9a49699d5683a"
+zone_id = "ed6391209f3d457f7bcdc50577fbe2da"
 workers_dev = false
-route = "<YOUR_DOMAIN>/*"
+route = "count.champhoon.xyz/*"
 compatibility_date = "2022-03-12"
 kv_namespaces = [
-  { binding = "KV", id = "<CF_KV_ID>", preview_id = "<CF_PREVIEW_KV_ID>" },
+  { binding = "KV", id = "d261bfd196cf4a0793acd2b200a09df0"},
 ]
 
 [build]
