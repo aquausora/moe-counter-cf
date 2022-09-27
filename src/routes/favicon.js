@@ -8,6 +8,6 @@ export async function get(req, event) {
   return await genProxyResponse(
     req,
     event,
-    'https://count.champhoon.xyz/favicon.ico'
+    'https://api.champhoon.xyz/favicon/favicon-count.ico'
   );
 }
