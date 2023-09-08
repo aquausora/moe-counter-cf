@@ -18,7 +18,7 @@
   "devDependencies": {
     "@cloudflare/wrangler": "~1.19.12",
     "clean-webpack-plugin": "~4.0.0",
-    "eslint": "~8.23.0",
+    "eslint": "~8.48.0",
     "prettier": "~2.7.1",
     "webpack": "~5.88.2",
     "webpack-cli": "~5.1.4"
